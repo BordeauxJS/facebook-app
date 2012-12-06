@@ -1,0 +1,24 @@
+{
+  "name": "facebook-app",
+  "version": "0.0.1",
+  "description": "facebook-app ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BordeauxJS/facebook-app.git"
+  },
+  "keywords": [
+    "facebook",
+    "api",
+    "app"
+  ],
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "~3.0.4"
+  }
+}
